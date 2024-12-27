@@ -1,2 +1,2 @@
-#GIT HUB DEMO REPO
+# GIT HUB DEMO REPO
 this is for my demo
